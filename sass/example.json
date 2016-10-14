@@ -1,0 +1,8 @@
+{
+  "breakpoints": {
+    "portraitS": "320px",
+    "portraitM": "360px",
+    "portraitL": "414px"
+  },
+  "localNavHeight": "50px"
+}
