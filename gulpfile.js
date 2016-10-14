@@ -16,7 +16,7 @@ gulp.task('webpack:build', (callback) => {
     let pathToMainPugTemplate = './src/pugs/body.pug';
     let pathToFavicon = './src/favicon.ico';
     let jsonPug = {
-        field: 'hello world'
+        field: 'this is string from json'
     };
     let title = 'Jade demo';
 

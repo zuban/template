@@ -1,5 +1,5 @@
 'use strict';
-require('./sass/header_pro.scss');
+require('./sass/header.scss');
+require('./sass/main.scss');
 require('./styles/body.css');
-require('./styles/footer.css');
 
