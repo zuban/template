@@ -20,7 +20,6 @@ gulp.task('webpack:build', (callback) => {
     };
     let title = 'Jade demo';
 
-
     const config = Object.create(webpackConfig);
     config.plugins = config.plugins || [];
     config.plugins = config.plugins.concat(
