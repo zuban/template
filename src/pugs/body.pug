@@ -1,9 +1,13 @@
-doctype html
 html
     head
     body
-        .class-body
-            p This is body
+        .class-user
+            h1 Daniel Roche
+            p
+                each val in pages
+                    span.links= val
+
+
                 h3.title #{field}
                     include first-container
                     include second-container
